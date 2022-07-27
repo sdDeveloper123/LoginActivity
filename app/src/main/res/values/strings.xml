@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="facebook_app_id">535726028214591</string>
+    <string name="fb_login_protocol_scheme">fb535726028214591</string>
+    <string name="facebook_client_token">d4ffd2bc7cb9dd536508dbe1a74c63c8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_product_desc">What is the benefits of snake plant?Image result for snake plant By releasing oxygen and adding moisture to the air, snake plants can help lessen the impact of airborne allergens like dust and dander.</string>
+</resources>
